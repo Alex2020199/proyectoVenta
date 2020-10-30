@@ -8,7 +8,7 @@ import java.sql.SQLException;
  // clase de conexion donde se establece las credenciales de la base de datos y el driver de conexion
 public class Conexion {
     public static final String USERNAME = "root";
-    public static final String PASSWORD = "";
+    public static final String PASSWORD = "root";
     public static final String HOST = "localhost";
     public static final String PORT = "3306";
     public static final String DATABASE = "ProyectoVentas";
